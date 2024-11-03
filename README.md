@@ -43,7 +43,7 @@ This project analyzes and visualizes drug treatment data to evaluate the effecti
 
 ## Setup and Dependencies
 
-To run this analysis, please ensure the following data files are in the data/ folder: `Mouse_metadata.csv` & `Study_results.csv`. In addition, you will need Python 3 and the following libraries installed:
+To run this analysis, please ensure the following data files are in the `data/` folder: `Mouse_metadata.csv` & `Study_results.csv`. In addition, you will need Python 3 and the following libraries installed:
 
 ```python
 # Dependencies
